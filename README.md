@@ -1,2 +1,1 @@
-# hello-world
-Este repositorio es para practicar el flujo de GitHub
+Soy Claudia ceballos especialista SEO llevo 10 años de experiencia y quiero seguir avanzando en las nuevas tecnologías con la inteligencia artífical 
