@@ -1,2 +1,2 @@
-# hello-world
-Este repositorio es para practicar el flujo de GitHub
+Soy Especialista SEO
+con 10 años de experiencia durante este tiempo he trabajado en campañas SEM y estrategias SEO
